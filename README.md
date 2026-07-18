@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Laukik+Deshmukh;Backend+Developer;AI%2FML+Enthusiast;Open+Source+Learner" />
+</p>
+
+<!-- GITHUBWALLPAPER:START -->
+...
+<!-- GITHUBWALLPAPER:END -->
 <!-- GITHUBWALLPAPER:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/0quka1wkkn1rq8embfa37sp4-dark.svg?v=1784355246291">
