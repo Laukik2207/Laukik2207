@@ -1,6 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=1200&color=F59E0B&center=true&vCenter=true&width=1000&lines=%24+neofetch;Developer%3A+Laukik+Deshmukh;Stack%3A+C%2B%2B+%7C+React+%7C+Node.js;Status%3A+Building+Cool+Things..." />
-</p>
+<table width="100%">
+<tr>
+
+<td align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=1200&color=F59E0B&center=false&vCenter=true&width=700&lines=%24+neofetch;Developer%3A+Laukik+Deshmukh;Stack%3A+C%2B%2B+%7C+React+%7C+Node.js;Status%3A+Building+Cool+Things..." />
+
+</td>
+
+<td align="right">
+
+<img src="https://komarev.com/ghpvc/?username=Laukik2207&label=visitors.log&color=f59e0b&style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
 
 <!-- GITHUBWALLPAPER:START -->
 <picture>
