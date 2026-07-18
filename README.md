@@ -3,22 +3,39 @@
 </p>
 
 <!-- GITHUBWALLPAPER:START -->
-<!-- GITHUBWALLPAPER:END -->
-<!-- GITHUBWALLPAPER:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/0quka1wkkn1rq8embfa37sp4-dark.svg?v=1784355246291">
   <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/0quka1wkkn1rq8embfa37sp4-light.svg?v=1784355246291">
   <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/0quka1wkkn1rq8embfa37sp4-dark.svg?v=1784355246291">
 </picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
 <!-- GITHUBWALLPAPER:END -->
 
+<!--Snake-->
+
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laukik2207/Laukik2207/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laukik2207/Laukik2207/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Laukik2207/Laukik2207/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Laukik2207/Laukik2207/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Laukik2207/Laukik2207/output/github-snake.svg" />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Laukik2207/Laukik2207/output/github-snake.svg" />
 </picture>
 
+<!--Snake-->
+
+<!--Leetcode-->
+  
+</p>
+<h2 align="center">💻 LeetCode</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Laukik2207/">
+    <img src="https://leetcard.jacoblin.cool/Laukik2207?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>  </a>
+</p>
+
+<!--Leetcode-->
 # 💫 About Me:
 🌱 I’m currently learning Data Structures & Algorithms, exploring AI/ML, and building in Web Development (so future me gets hired 😄) 🚀<br>💬 Ask me about C++, problem solving, or clean UI design<br>⚡ Fun fact My code works… eventually.<br>🤝 Open to collaborating on AI/ML experiments, full-stack builds, and spicy DSA challenges — let’s break things, fix them, and call it innovation 😄🚀<br><br>
 
