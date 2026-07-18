@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Laukik2207&theme=blue_navy&hide_border=true&border_radius=12"/>
-</p>username=Laukik2207&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Laukik2207&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
