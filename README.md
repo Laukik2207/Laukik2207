@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=1200&color=F59E0B&center=true&vCenter=true&width=1000&lines=%24+neofetch;Developer%3A+Laukik+Deshmukh;Stack%3A+C%2B%2B+%7C+React+%7C+Node.js;Status%3A+Building+Cool+Things..." />
 </p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Laukik%20Deshmukh&fontColor=ffffff&color=0:111111,100:F59E0B"/>
-</p>
+
 <!-- GITHUBWALLPAPER:START -->
 ...
 <!-- GITHUBWALLPAPER:END -->
@@ -15,6 +13,10 @@
 </picture>
 <p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
 <!-- GITHUBWALLPAPER:END -->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Laukik2207/Laukik2207/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 # 💫 About Me:
 🌱 I’m currently learning Data Structures & Algorithms, exploring AI/ML, and building in Web Development (so future me gets hired 😄) 🚀<br>💬 Ask me about C++, problem solving, or clean UI design<br>⚡ Fun fact My code works… eventually.<br>🤝 Open to collaborating on AI/ML experiments, full-stack builds, and spicy DSA challenges — let’s break things, fix them, and call it innovation 😄🚀<br><br>
