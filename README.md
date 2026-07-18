@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=1200&color=F59E0B&center=true&vCenter=true&width=1000&lines=%24+neofetch;Developer%3A+Laukik+Deshmukh;Stack%3A+C%2B%2B+%7C+React+%7C+Node.js;Status%3A+Building+Cool+Things..." />
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=header"/>
 
 <!-- GITHUBWALLPAPER:START -->
 ...
