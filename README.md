@@ -14,9 +14,7 @@
 <p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
 <!-- GITHUBWALLPAPER:END -->
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Laukik2207/Laukik2207/output/github-contribution-grid-snake-dark.svg">
-</p>
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Laukik2207/Laukik2207/output/github-contribution-grid-snake-dark.svg)
 
 # 💫 About Me:
 🌱 I’m currently learning Data Structures & Algorithms, exploring AI/ML, and building in Web Development (so future me gets hired 😄) 🚀<br>💬 Ask me about C++, problem solving, or clean UI design<br>⚡ Fun fact My code works… eventually.<br>🤝 Open to collaborating on AI/ML experiments, full-stack builds, and spicy DSA challenges — let’s break things, fix them, and call it innovation 😄🚀<br><br>
