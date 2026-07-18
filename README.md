@@ -66,6 +66,20 @@
 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=22C55E&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AC+Animated+Core+Stack" />
+</p>
+<p align="center">
+  <img height="60" src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" />
+  <img height="60" src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" />
+  <img height="60" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" />
+  <img height="60" src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" />
+  <img height="60" src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" />
+  <img height="60" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" />
+  <img height="60" src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" />
+  <img height="60" src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" />
+  <img height="60" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=22C55E&center=true&vCenter=true&width=400&lines=Languages" />
 </p>
 <p align="center">
