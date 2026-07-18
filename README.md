@@ -46,16 +46,16 @@
 
 <p align="center">
   <a href="https://github.com/Laukik2207">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=github&animation=pulse&size=45" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/laukik-deshmukh-link2207">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&size=45" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/laukikdeshmukh_2207">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&animation=spin&size=45" alt="Instagram" />
   </a>
   <a href="https://pinterest.com/Laukik_2207">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=pinterest&animation=bounce&size=45" alt="Pinterest" />
   </a>
   <a href="mailto:deshmukhlaukik52@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
