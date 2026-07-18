@@ -52,9 +52,13 @@
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Laukik2207&show_icons=true&theme=blue_navy&hide_border=true&border_radius=12&rank_icon=github"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laukik2207&layout=compact&theme=blue_navy&hide_border=true&border_radius=12"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Laukik2207&theme=blue_navy&hide_border=true&border_radius=12"/>
 </p>
 
 ### 🔝 Top Contributed Repo
