@@ -9,7 +9,7 @@
 
 <td align="right">
 
-<img src="https://komarev.com/ghpvc/?username=Laukik2207&label=PIXELS&color=orange&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Laukik2207&label=Visited By&color=orange&style=flat-square"/>
 
 </td>
 
